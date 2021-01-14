@@ -6,4 +6,7 @@ Used Technologies:
   -JWT
   
 This project was build for improving knowledge of using Express with combination of MongoDB. The authentication process is made by using JWT.
+
+To install dependencies run:
+ npm install
 Enjoy :)
